@@ -1,0 +1,8 @@
+Z:\Learning\C#\6 sem\Czw2\Haffman'sCodes\Haffman'sCodesWF\bin\Debug\Haffman'sCodesWF.exe.config
+Z:\Learning\C#\6 sem\Czw2\Haffman'sCodes\Haffman'sCodesWF\bin\Debug\Haffman'sCodesWF.exe
+Z:\Learning\C#\6 sem\Czw2\Haffman'sCodes\Haffman'sCodesWF\bin\Debug\Haffman'sCodesWF.pdb
+Z:\Learning\C#\6 sem\Czw2\Haffman'sCodes\Haffman'sCodesWF\obj\Debug\Haffman_sCodesWF.Form1.resources
+Z:\Learning\C#\6 sem\Czw2\Haffman'sCodes\Haffman'sCodesWF\obj\Debug\Haffman_sCodesWF.Properties.Resources.resources
+Z:\Learning\C#\6 sem\Czw2\Haffman'sCodes\Haffman'sCodesWF\obj\Debug\Haffman'sCodesWF.csproj.GenerateResource.Cache
+Z:\Learning\C#\6 sem\Czw2\Haffman'sCodes\Haffman'sCodesWF\obj\Debug\Haffman'sCodesWF.exe
+Z:\Learning\C#\6 sem\Czw2\Haffman'sCodes\Haffman'sCodesWF\obj\Debug\Haffman'sCodesWF.pdb
